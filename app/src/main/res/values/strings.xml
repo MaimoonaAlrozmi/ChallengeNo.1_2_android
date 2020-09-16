@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChallengeNo.1_ 2_android</string>
+    <string name="Makia">مـكـية</string>
+    <string name="NumberOfSora">1</string>
+    <string name="Alfatiha">سـورة الفاتحـة</string>
+    <string name="CountOfAyat">عدد الآيات : 7</string>
+    <string name="nuberOfPage">صفحة : 7</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="subject">Subject</string>
+    <string name="Message">Message</string>
+    <string name="submit">Submit</string>
+</resources>
